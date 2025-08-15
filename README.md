@@ -1,16 +1,17 @@
-## Hi there 👋
+# Greetings
 
-<!--
-**Owen-Dunn-6561/Owen-Dunn-6561** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a senior undergraduate student at the University of North Florida who is pursuing a Bachelor's of Science in Mathematics. I enjoy learning about many kinds of subjects, but I am most interested in **Discrete Mathematics**, **Theoretical Computer Science**, and **Data Science**. 
 
-Here are some ideas to get you started:
+## My Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are the most recent projects I've worked on.
+
+### Dilworth's Theorem Presentation
+This project was for the UNF Osprey Math Conference. I discussed Partial Orders, Dilworth's Theorem, and the Application of these concepts.
+
+
+### Guess The Manga Game
+This is a script I wrote in python to gather data which is used to create a game where one does what is said on the tin.
++ Created in **Python**
++ Uses **BeautifulSoup** and **HTML parsing** to collect data
++ Uses **Tkinter** to create a **GUI** for easier use
