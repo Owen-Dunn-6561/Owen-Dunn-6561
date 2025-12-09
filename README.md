@@ -6,6 +6,9 @@ I'm a senior undergraduate student at the University of North Florida who is pur
 
 Here are the most recent projects I've worked on.
 
+### Matrix Monotone Functions and their Characterizations
+This project consisted of a paper and presentation. Both focus on extending the notion of monotone increasing functions to complex valued matrices.
+
 ### Dilworth's Theorem Presentation
 This project was for the UNF Osprey Math Conference. I discussed Partial Orders, Dilworth's Theorem, and the Application of these concepts.
 
