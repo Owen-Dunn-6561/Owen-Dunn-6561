@@ -1,6 +1,6 @@
 # Greetings
 
-I'm a senior undergraduate student at the University of North Florida who is pursuing a Bachelor's of Science in Mathematics. I enjoy learning about many kinds of subjects, but I am most interested in **Mathematics**, **Computer Science**, and **Statistics**, along with the subjects that result from their overlap. 
+I'm a recent graduate from the University of North Florida who has a Bachelor's of Science in Mathematics. I enjoy learning about many kinds of subjects, but I am most interested in **Mathematics**, **Computer Science**, and **Statistics**, along with the subjects that result from their overlap. 
 
 ## My Projects
 
