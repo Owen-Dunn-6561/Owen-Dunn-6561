@@ -6,15 +6,11 @@ I'm a recent graduate from the University of North Florida who has a Bachelor's 
 
 Here are the most recent projects I've worked on.
 
+### Guess The Manga Game
+This has been an ongoing project for a while. The current iteration is a full-stack project with a JavaScript frontend, Python backend using Django, and a MySQL database.
+
 ### Matrix Monotone Functions and their Characterizations
-This project consisted of a paper and presentation. Both focus on extending the notion of monotone increasing functions to complex valued matrices.
+This project consisted of a paper and presentation. Both focus on extending the notion of monotone increasing functions to complex valued matrices called Hermitian Martices, which are useful for characterizing Quantum states.
 
 ### Dilworth's Theorem Presentation
-This project was for the UNF Osprey Math Conference. I discussed Partial Orders, Dilworth's Theorem, and the Application of these concepts.
-
-
-### Guess The Manga Game
-This is a script I wrote in python to gather data which is used to create a game where one does what is said on the tin.
-+ Created in **Python**
-+ Uses **BeautifulSoup** and **HTML parsing** to collect data
-+ Uses **Tkinter** to create a **GUI** for easier use
+This project was for the UNF Osprey Math Conference. I discussed Partial Orders, Dilworth's Theorem, and the Application of these concepts to Data Structures.
